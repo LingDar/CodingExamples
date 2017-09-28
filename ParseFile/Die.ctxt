@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Die()
+comment0.text=\n\ Constructs\ a\ 6-sided\ die\ object\n
+comment1.params=sides
+comment1.target=Die(int)
+comment1.text=\n\ Constructs\ an\ arbitrary\ die\ object.\n\ \ \ @param\ sides\ the\ number\ of\ sides\ on\ the\ die\n
+comment2.params=
+comment2.target=int\ getNumberOfSides()
+comment2.text=\n\ Gets\ the\ number\ of\ sides\ on\ the\ die\ object.\n\ \ \ @return\ \ the\ number\ of\ sides\ (an\ N-sided\ die\ can\ roll\ 1\ through\ N)\n
+comment3.params=
+comment3.target=int\ getNumberOfRolls()
+comment3.text=\n\ Gets\ the\ number\ of\ rolls\ by\ on\ the\ die\ object.\n\ \ \ @return\ \ the\ number\ of\ times\ roll\ has\ been\ called\n
+comment4.params=
+comment4.target=int\ roll()
+comment4.text=\n\ Simulates\ a\ random\ roll\ of\ the\ die.\n\ \ \ @return\ \ the\ value\ of\ the\ roll\ (for\ an\ N-sided\ die,\ the\ roll\ is\ between\ 1\ and\ N)\n
+numComments=5

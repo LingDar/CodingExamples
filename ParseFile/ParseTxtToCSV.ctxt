@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParseTxtToCSV()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ParseTxtToCSV\n
+comment1.params=filename\ specail
+comment1.target=java.util.ArrayList\ parseTxtToCSVWithSpecialCharacter(java.lang.String,\ char)
+comment2.params=filename\ specail
+comment2.target=void\ writeParseTxtToCSVWithSpecialCharacter(java.lang.String,\ char)
+numComments=3
